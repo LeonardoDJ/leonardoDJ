@@ -11,10 +11,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LeonardoDJ/LeonardoDJ/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Essas são as linguagens que eu mais utilizo.</h2>
 
 ###
@@ -37,7 +33,7 @@
 
 ###
 
-<h2 align="left">Minhas redes sociais.</h2>
+<h2 align="left">Redes sociais.</h2>
 
 ###
 
