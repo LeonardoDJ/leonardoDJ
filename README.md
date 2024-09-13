@@ -3,8 +3,8 @@
 - 🔭 Eu ainda não trabalho, pois estou frequentando uma escola que o periodo é integral, mas pretendo sim trabalhar na área de T.I.
 - 😄 Pronouns: ele/dele
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoDJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&order=1" height="155" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoDJ&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoDJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&order=1" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoDJ&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
 
 ###
