@@ -1,8 +1,6 @@
 ## Olá! eu me chamo LeonardoDJ
 
 - 🔭 Eu ainda não trabalho, pois estou frequentando uma escola que o periodo é integral, mas pretendo sim trabalhar na área de T.I.
-- 🌱 Atualmente estou apredendo, html, css, java, python, C#, PHP, mysql mas pretendo aprender mais linguagens.
-- 📫 Você pode falar comigo através do Instagram, email: serlepe147leo@gmail.com .
 - 😄 Pronouns: ele/dele
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=LeonardoDJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&order=1" height="155" alt="stats graph"  />
@@ -11,9 +9,7 @@
 
 ###
 
-<h2 align="left">Essas são as linguagens que eu mais utilizo.</h2>
-
-###
+<h2 align="left">Linguagens que eu utilizo.</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -35,13 +31,15 @@
 
 <h2 align="left">Redes sociais.</h2>
 
-###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  
+  <a href="https://www.instagram.com/leo_dj2008/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
-###
 ###
