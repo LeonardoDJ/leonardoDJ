@@ -1,4 +1,4 @@
-## Olá! eu me chamo LeonardoDJ
+## Olá! eu me chamo Leonardo Delfino José
 
 - 🔭 Eu ainda não trabalho, pois estou frequentando uma escola que o periodo é integral, mas pretendo sim trabalhar na área de T.I.
 - 😄 Pronomes: ele/dele
