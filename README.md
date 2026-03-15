@@ -4,96 +4,59 @@
 
 Cursando Engenharia de Software na SATC (1º semestre) em Criciúma-SC. Estudo programação há mais de 2 anos e sou desenvolvedor full-stack com experiência em HTML, CSS, JavaScript, Angular, Java, Python e PHP. Participei do desenvolvimento de um Sistema de Monitoramento Escolar com Reconhecimento Facial e Gestão Alimentar para uma feira de ciências. Busco estágio nos períodos da manhã/tarde nas áreas de desenvolvimento web, full-stack, back-end, front-end ou engenharia de software.
 
----
+###
 
-### 🤖 Linguagens e Tecnologias
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LeonardoDJ&locale=pt-br&mode=daily&theme=algolia&hide_border=false&border_radius=10&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoDJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+###
 
-<img 
-    align="left"
-    alt="Angular" 
-    title="Angular"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
+<br clear="both">
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvZmtyZ2Q4aTZhNWJlc2J6cTU2b2RmNDkxcWI3Y204cXBoa3M3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
-<img 
-    align="left"
-    alt="Github" 
-    title="GitHub"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+###
 
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="47" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="47" alt="css logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="47" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="47" alt="angularjs logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="47" alt="git logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="47" alt="github logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="47" alt="php logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="47" alt="mysql logo"  />
+</div>
 
+###
 
-<img 
-    align="left"
-    alt="Java" 
-    title="Java"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+<br clear="both">
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+<div align="center">
+  <a href="https://www.instagram.com/leo_dj2008/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="instagram logo"  />
+  </a>
+  <a href="serlepe147" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-delfino-josé/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="gmail logo"  />
+  </a>
+</div>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="MySql" 
-    title="Sql"
-    width="50px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
