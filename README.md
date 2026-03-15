@@ -7,8 +7,8 @@ Cursando Engenharia de Software na SATC (1º semestre) em Criciúma-SC. Estudo p
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LeonardoDJ&locale=pt-br&mode=daily&theme=algolia&hide_border=false&border_radius=10&date_format=j/n%5B/Y%5D" height="165" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoDJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false&border_radius=10" height="165" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=LeonardoDJ&locale=pt-br&mode=daily&theme=algolia&hide_border=false&border_radius=10&date_format=j/n%5B/Y%5D" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoDJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false&border_radius=10" height="170" alt="stats graph"  />
 </div>
 
 ###
