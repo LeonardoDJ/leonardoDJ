@@ -19,6 +19,7 @@ Cursando Engenharia de Software na SATC (1º semestre) em Criciúma-SC. Estudo p
 
 ###
 
+**`Linguagens`**
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="70" alt="html5 logo"  />
   <img width="30" />
