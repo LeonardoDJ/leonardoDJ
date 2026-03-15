@@ -15,7 +15,7 @@ Cursando Engenharia de Software na SATC (1º semestre) em Criciúma-SC. Estudo p
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvZmtyZ2Q4aTZhNWJlc2J6cTU2b2RmNDkxcWI3Y204cXBoa3M3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvZmtyZ2Q4aTZhNWJlc2J6cTU2b2RmNDkxcWI3Y204cXBoa3M3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
